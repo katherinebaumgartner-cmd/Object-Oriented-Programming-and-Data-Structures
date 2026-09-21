@@ -96,7 +96,8 @@ If the player shoots, have them pick which of the adjacent rooms to shoot into. 
 DO NOT kill off the spiders (there are too many) or create an "arrow bridge" over bottomless pits (really?) - the obstacles cannot be removed or destroyed with arrows.
 If the player moves, ask for the room number and change currentRoom. If the new room contains spiders, a pit, or the Wumpus, the game is over.
 Do not let the user move or shoot into a room that is not adjacent to the current room.
-Extra Credit (up to 9 points)
+
+**Extra Credit (up to 9 points)**
 On the first line of the cave layout file, after the number of rooms, have your program accept the number of spider rooms and bottomless pits. Thus, if the first line was
 25 5 3
 your cave would have 25 rooms, with 5 of those having poisonous spiders, and 3 rooms with pits. These rooms are still chosen randomly. [3 points]
