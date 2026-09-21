@@ -1,7 +1,9 @@
 # Object-Oriented-Programming-and-Data-Structures
 Hunt The Wumpus!
 Here I have included the project description given to us.
+
 (For better viewing, use the code view tab)
+
 **Description**
 You are a mighty warrior, and armed with your trusty bow and 3 arrows, you enter The Caves in search of the mighty Wumpus. If you shoot the Wumpus, you are victorious and the masses will praise you, but if you stumble upon the Wumpus unawares, it will eat you! Also, beware of the webs of the giant poisonous spiders and the bottomless pits!
 Your senses of smell and hearing will aid you on your quest, for the Wumpus does not bathe and can be smelled one room away. Also, the clicking mandibles of the poisonous spiders can be heard one room away, and the foul odor of a bottomless pit can be smelled one room away.
